@@ -1,0 +1,42 @@
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Database4.accdb
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SplashScreen2.resources
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Gerome Adriane\My Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SplashScreen6.resources
+c:\documents and settings\gerome adriane\my documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Documents and Settings\Gerome Adriane\My Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Documents and Settings\Gerome Adriane\My Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Documents and Settings\Gerome Adriane\My Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\bin\Debug\Database4.accdb
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SplashScreen2.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SplashScreen6.resources
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Gerome Adriane\Desktop\Prianes VB Application\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
